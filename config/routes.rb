@@ -1,4 +1,4 @@
-Rails.application.routes.draw do
+Myblog.application.routes.draw do
   resources :comments
 
   resources :posts do
